@@ -1,0 +1,3 @@
+default: &defaults
+  username: user
+  password: password
